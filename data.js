@@ -8,7 +8,8 @@ export default {
       price: 60,
       brand: 'Mike',
       rating: 4.5,
-      numReviews: 10
+      numReviews: 10,
+      countInStock: 6
     },
     {
       _id: '112',
@@ -18,7 +19,8 @@ export default {
       price: 55,
       brand: 'Abidas',
       rating: 3.5,
-      numReviews: 19
+      numReviews: 19,
+      countInStock: 8
     },
     {
       _id: '113',
@@ -28,7 +30,8 @@ export default {
       price: 45,
       brand: 'Bold Navy',
       rating: 4.0,
-      numReviews: 32
+      numReviews: 32,
+      countInStock: 0
     },
     {
       _id: '114',
@@ -38,7 +41,8 @@ export default {
       price: 80,
       brand: 'Mike',
       rating: 4.0,
-      numReviews: 12
+      numReviews: 12,
+      countInStock: 6
     },
     {
       _id: '115',
@@ -48,7 +52,8 @@ export default {
       price: 75,
       brand: 'Fuma',
       rating: 3.0,
-      numReviews: 7
+      numReviews: 7,
+      countInStock: 10,
     },
     {
       _id: '116',
@@ -58,7 +63,8 @@ export default {
       price: 70,
       brand: 'Hugo Hoss',
       rating: 4.5,
-      numReviews: 23
+      numReviews: 23,
+      countInStock: 7
     },
   ]
 }
